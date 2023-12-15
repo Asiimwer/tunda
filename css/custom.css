@@ -1,0 +1,149 @@
+@font-face {
+    font-family: oswald;
+    src: url(/fonts/Oswald/Oswald-ExtraLight.ttf);
+}
+.slider{
+    background-color: white;
+}
+.container-fluid{
+    /* background-color: aqua; */
+}
+.footer{
+    background-color: cyan;
+}
+.text-center{
+    margin-top: 60px;
+}
+.margintop{
+    margin-top: 90px;
+}
+.navbar-nav{
+    margin-left: 30px;
+}
+.nav-link{
+    margin-left: 30px;  
+}
+.text-center2{
+    text-align: center;
+}
+.button{
+    margin-left: 250px;
+}
+.total_label{
+   
+}
+.total{
+    margin-right:1px;
+margin-left: 50%;
+}
+.total_label{
+    margin-left:-300px;
+}
+.button{
+    margin-left: 800px;
+}
+.div_body{
+    background-color: lightcyan;
+}
+body{
+    background-color: lightblue;
+    
+   
+}
+.background-color{
+    
+    text-align:left 20px;
+}
+.about_container{
+    background-color: lightblue;
+}
+.about-content{
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px 20px 20px 20px ;
+}
+/* #about-hero{
+    width: 100%;
+    height: 250%;
+    background-image: url(../images/slider.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+} */
+.heading{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: -900px;
+}
+.button-color{
+    color: red;
+}
+.text-color{
+    color: blueviolet;
+    
+}
+.blockquote-footer{
+    text-align: right;
+}
+.order-now{
+    margin-left: 50px;
+    width: 70%;
+}
+.column-positioning{
+    margin-left: -900px;
+}
+.card{
+    border-radius: 4px;
+}
+.categories-header{
+    
+}
+.alt-welcome{
+  border:  3px solid black;
+}
+.buttton-color{
+    color: blue;
+}
+.font-size{
+    color: aliceblue;
+}
+.categories-contentt{
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px 20px 20px 20px ;
+    border-radius: 10px;
+}
+.categories{
+    background-color: rgb(40, 40, 223);
+    height: 100px;
+    width: 400px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.btn-group{
+    color: black;
+}
+.leveling{
+    padding-bottom: 20px;
+}
+.btn-group{
+    margin-top: -10px;
+}
+.fa-solid fa-list{
+    
+}
+.categories-column{
+    background-color: white;
+}
+.col-md-4{}
+.kitchen{
+    font-size:x-large;
+    font-family: oswald;
+    src: url(/fonts/Oswald/Oswald-ExtraLight.ttf);
+    font-style: normal;
+
+}
+.fonts{
+    color: blue;
+}

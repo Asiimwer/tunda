@@ -1,0 +1,26 @@
+.container{
+   
+    height: 300px;
+
+}
+#slider{
+    background-color: cyan;
+}
+.container-fluid{
+    /* background-color: aqua; */
+}
+.footer{
+    background-color: cyan;
+}
+.text-center{
+    margin-top: 60px;
+}
+.margintop{
+    margin-top: 90px;
+}
+.navbar-nav{
+    margin-left: 30px;
+}
+.nav-link{
+    margin-left: 30px;  
+}
